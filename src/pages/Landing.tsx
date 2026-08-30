@@ -33,11 +33,11 @@ export default function Landing() {
         </div>
 
         {/* Hero Portrait - enlarged & placed on right */}
-        <img
-          src="/hero-portrait.png"
-          alt="Hero"
-          className="absolute right-0 bottom-[36px] h-[210px] w-auto object-contain z-10 pointer-events-none drop-shadow-lg"
-        />
+        {/* <img */}
+        {/*   src="/hero-portrait.png" */}
+        {/*   alt="Hero" */}
+        {/*   className="absolute right-0 bottom-[36px] h-[210px] w-auto object-contain z-10 pointer-events-none drop-shadow-lg" */}
+        {/* /> */}
 
         {/* Orange Banner */}
         <div className="w-full bg-[#f89b29] text-black font-extrabold text-center text-xs py-2 px-2 z-20 leading-snug tracking-tight uppercase shadow-sm">
